@@ -1,0 +1,5 @@
+{
+  "name": "Helios Explorer",
+  "description": "An interactive, 3D-simulated 2D Solar System explorer. Features real-time orbital mechanics, smooth zooming, planet tracking, and AI-powered planetary insights.",
+  "requestFramePermissions": []
+}
